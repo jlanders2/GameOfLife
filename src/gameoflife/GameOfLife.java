@@ -9,7 +9,7 @@ import javafx.scene.control.Button;
 import javafx.animation.AnimationTimer;
 
 public class GameOfLife extends Application{
-    private static Cell[][] cells;
+    private Cell[][] cells;
     @Override
     public void start(Stage primaryStage) throws Exception {
         cells = new Cell[64][64];
@@ -45,16 +45,19 @@ public class GameOfLife extends Application{
         Button stop = new Button("Stop");
         stop.setOnAction(event->{
         	animate.stop();
-        });
+        	});
+        
         Button start = new Button("Start");
         start.setOnAction(event->{
         	animate.start();
-        });
+        	});
         
         root.add(start, cells.length, cells[cells.length-1].length);
         root.add(stop, cells.length, cells[cells.length-1].length+1);
+        root.setStyle("-fx-background-color: white");
         
         Scene scene = new Scene(root);
+        
         primaryStage.setTitle("Conway's Game of Life");
         primaryStage.setScene(scene);
         primaryStage.show();
