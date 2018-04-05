@@ -1,6 +1,8 @@
 package gameoflife;
 
 import javafx.scene.shape.Rectangle;
+import javafx.event.EventHandler;
+import javafx.scene.input.MouseEvent;
 import javafx.scene.paint.Color;
 
 public class Cell extends Rectangle{
@@ -9,6 +11,7 @@ public class Cell extends Rectangle{
     }
     private Status status;
     private boolean aliveNextCycle, deadNextCycle;
+    private int xLocation, yLocation;
     public Cell(Double width, Double height, int x, int y){
         setWidth(width);
         setHeight(height);
@@ -16,6 +19,18 @@ public class Cell extends Rectangle{
         setStatus(Status.DEAD);
         aliveNextCycle = false;
         deadNextCycle = false;
+        xLocation = x;
+        yLocation = y;
+        setOnMousePressed(new EventHandler<MouseEvent>() {
+            public void handle(MouseEvent me) {
+            	if(getStatus() == Status.DEAD) {
+            		setStatus(Status.ALIVE);
+            	}
+            	else {
+            		setStatus(Status.DEAD);
+            	}
+            }
+        });
     }
 
     public Status getStatus(){
@@ -58,5 +73,13 @@ public class Cell extends Rectangle{
 
     public void makeDeadNextCycle(boolean deadNextCycle){
         this.deadNextCycle = deadNextCycle;
+    }
+    
+    public int getXLocation() {
+    	return xLocation;
+    }
+    
+    public int getYLocation() {
+    	return yLocation;
     }
 }
