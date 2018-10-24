@@ -1,5 +1,5 @@
 # GameOfLife
-My Conway's Game of Life project  
+My Conway's Game of Life project    
 ***Not optimized yet***  
 This is just a little side project to work on my optimization skills and mess around with different patterns in Conway's Game of Life.
 
