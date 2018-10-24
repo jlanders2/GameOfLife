@@ -36,8 +36,8 @@ started.
 ### QuickStart
 1. Download Repository  
 2. Open Repository folder
-3. Run the first-start.bat file *(This step only necessary once. Afterwards just run the
-jar that is created in the directory)*
+3. Run the first-start.bat file *(This step only necessary once. Afterwards
+just run theGameOfLife.jar file that is created in the directory)*
 
  Enter the following commands:
 > cd gameoflife  
