@@ -21,7 +21,7 @@ https://en.wikipedia.org/wiki/Conway%27s_Game_of_Life. It is a fun little game t
 ![alt text](https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/Game_of_life_block_with_border.svg/66px-Game_of_life_block_with_border.svg.png)
 ![alt text](https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/Game_of_life_block_with_border.svg/66px-Game_of_life_block_with_border.svg.png)
 ![alt text](https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/Game_of_life_block_with_border.svg/66px-Game_of_life_block_with_border.svg.png)
-### Spaceship Patterns*(AKA - Patterns that move on their own)*
+### Spaceship Patterns *(AKA - Patterns that move on their own)*
 ![alt text](https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/Game_of_life_block_with_border.svg/66px-Game_of_life_block_with_border.svg.png)
 ![alt text](https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/Game_of_life_block_with_border.svg/66px-Game_of_life_block_with_border.svg.png)
 
