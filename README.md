@@ -24,7 +24,7 @@ https://en.wikipedia.org/wiki/Conway%27s_Game_of_Life. It is a fun little game t
 ### Spaceship Patterns *(AKA - Patterns that move on their own)*
 ![alt text](https://upload.wikimedia.org/wikipedia/commons/f/f2/Game_of_life_animated_glider.gif)
 ![alt text](https://upload.wikimedia.org/wikipedia/commons/3/37/Game_of_life_animated_LWSS.gif)  
-*These are not all the possible patterns but a few ones that are used alot*
+### *These are not all the possible patterns but a few ones that are used alot*
 
 **To run**  
 Step 1 : Download Repository  
