@@ -11,8 +11,8 @@ Step 3 : Enter the following commands
 		cd gameoflife  
 		javac GameOfLife.java  
 		javac Main.java  
-		jar cmvf manifest.mf GameOfLife.jar ./*.java ./*.class  
-		java -jar GameOfLife.java  
+		jar cmvf manifest.mf GameOfLife.jar ./"*".java ./*.class  
+		java -jar GameOfLife.jar  
 Step 4 : *Have fun using my Conway's Game of Life Program!!!*  
 
 ***Note: Requires Java 8***
