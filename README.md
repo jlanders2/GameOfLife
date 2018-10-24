@@ -1,13 +1,17 @@
 # GameOfLife
-My Conway's Game of Life project  
+The program I have created is a clone I made from the ground up of the popular 
+Conway's Game of Life game.
 
 ***Not optimized yet***  
-This is just a little side project to work on my optimization skills and mess around with different patterns in Conway's Game of Life.
+This is just a little side project to work on my optimization skills and mess 
+around with different patterns in Conway's Game of Life.
 
 ## A little bit about the game  
 If you have never heard of the "Game of Life", developed by John Conway in the
 early 70's I suggest that you check out the wikepedia page listed here:
-https://en.wikipedia.org/wiki/Conway%27s_Game_of_Life. It is a fun little game that replicates cell automation. Below I will list some fun patterns to get you started.    
+https://en.wikipedia.org/wiki/Conway%27s_Game_of_Life. It is a fun little game 
+that replicates cell automation. Below I will list some fun patterns to get you 
+started.    
 
 ## Patterns
 ### Still Patterns
