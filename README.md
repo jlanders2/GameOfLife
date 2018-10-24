@@ -7,7 +7,7 @@ This is just a little side project to work on optimization skills and mess aroun
 **To run**  
 Step 1 : Download Repository  
 Step 2 : Open Command Prompt and navigate to the folder you downloaded  
-Step 3 : Enter the following commands:  
+Step 3 : Enter the following commands:
 > cd gameoflife  
 > javac GameOfLife.java  
 > javac Main.java  
