@@ -2,7 +2,7 @@
 The program I have created is a clone I made from the ground up of the popular  
 Conway's Game of Life game.  
 
-***Please Note The Following:***  
+***Please Note The Following:***
 * This is just a little side project to work on my optimization skills and mess  
   around with different patterns in Conway's Game of Life.
 * ***IMPORTANT: Requires Java 8***
