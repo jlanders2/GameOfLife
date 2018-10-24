@@ -7,7 +7,6 @@ This is just a little side project to work on my optimization skills and mess ar
 If you have never heard of the "Game of Life", developed by John Conway in the
 early 70's I suggest that you check out the wikepedia page listed here:
 https://en.wikipedia.org/wiki/Conway%27s_Game_of_Life. It is a fun little game that replicates cell automation. Below I will list some fun patterns to get you started.  
-
 ##Patterns  
 ![alt text](https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/Game_of_life_block_with_border.svg/66px-Game_of_life_block_with_border.svg.png)
 ![alt text](https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/Game_of_life_block_with_border.svg/66px-Game_of_life_block_with_border.svg.png)
