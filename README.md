@@ -36,11 +36,9 @@ started.
 ### QuickStart
 1. **Download Repository**  
 2. **Open Repository folder**
-3. **Run the first-start.bat file (This step only necessary once. Afterwards  
-just run theGameOfLife.jar file that is created in the directory)**
-4. **After doing steps 1-3 the game should have already ran once. The next times  
-that you wish to run the game just run the GameOfLife.jar that has now been  
-created in the base directory.**  
+3. **Run the first-start.bat file (This step only necessary once.)**
+4. **Run the run.bat file (This is how you will access the game from now on. Steps
+1-3 no longer needed)**  
   
 ### Manually Start
 1. **Download Repository**  
