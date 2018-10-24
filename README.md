@@ -46,19 +46,11 @@ created in the base directory.**
 1. **Download Repository**  
 2. **Open Repository folder**
 3. **Enter the following commands:**
-> cd gameoflife  
-> javac GameOfLife.java  
-> javac Main.java  
-> jar cmvf manifest.mf GameOfLife.jar ./\*.java ./\*.class  
-> java -jar GameOfLife.jar 
-4. **After doing steps 1- the game should have already ran once. The next times  
+> **cd gameoflife**
+> **javac GameOfLife.java**
+> **javac Main.java**
+> **jar cmvf manifest.mf ../GameOfLife.jar ./\*.java ./\*.class**
+> **java -jar ../GameOfLife.jar**
+4. **After doing steps 1-3 the game should have already ran once. The next times  
 that you wish to run the game just run the GameOfLife.jar that has now been  
 created in the base directory.**  
-
- Enter the following commands:
-> cd gameoflife  
-> javac GameOfLife.java  
-> javac Main.java  
-> jar cmvf manifest.mf GameOfLife.jar ./\*.java ./\*.class  
-> java -jar GameOfLife.jar  
-Step 4 : *Have fun using my Conway's Game of Life Program!!!*  
