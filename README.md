@@ -5,7 +5,7 @@ Conway's Game of Life game.
 ***Please Note The Following:***  
 * This is just a little side project to work on my optimization skills and mess  
   around with different patterns in Conway's Game of Life.
-* Requires Java 8.
+* ***IMPORTANT: Requires Java 8***
 
 ## A little bit about the game
 If you have never heard of the "Game of Life", developed by John Conway in the  
