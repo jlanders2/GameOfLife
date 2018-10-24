@@ -32,7 +32,7 @@ started.
 ![alt text](https://upload.wikimedia.org/wikipedia/commons/3/37/Game_of_life_animated_LWSS.gif)   
 ### *These are not all the possible patterns but a few ones that are used alot*
 
-**To run**  
+## To Run  
 Step 1 : Download Repository  
 Step 2 : Open Command Prompt and navigate to the folder you downloaded  
 Step 3 : Enter the following commands:
