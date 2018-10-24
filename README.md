@@ -32,15 +32,17 @@ started.
 ![alt text](https://upload.wikimedia.org/wikipedia/commons/3/37/Game_of_life_animated_LWSS.gif)   
 ### *These are not all the possible patterns but a few ones that are used alot*
 
-## To Run  
-Step 1 : Download Repository  
-Step 2 : Open Command Prompt and navigate to the folder you downloaded  
-Step 3 : Enter the following commands:
+## To Run
+### QuickStart
+1. Download Repository  
+2. Open Repository folder
+3. Run the first-start.bat file *(This step only necessary once. Afterwards just run the
+jar that is created in the directory)*
+
+ Enter the following commands:
 > cd gameoflife  
 > javac GameOfLife.java  
 > javac Main.java  
 > jar cmvf manifest.mf GameOfLife.jar ./\*.java ./\*.class  
 > java -jar GameOfLife.jar  
 Step 4 : *Have fun using my Conway's Game of Life Program!!!*  
-
-***Note: Requires Java 8***
