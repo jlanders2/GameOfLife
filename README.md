@@ -56,7 +56,7 @@ that you wish to run the game just follow steps 1-2 and enter the following comm
 > **java -jar /GameOfLife.jar**  
 
 ## Using the Application
-**What can you to in the application?**
+**What can you do in the application?**
 * Click the start button to start time
 * Clicking the stop button will stop time (**I suggest editing cells in this mode, then starting to see what your pattern does!**)
 * You can click on a square to make it "alive cells" or "dead cells"
