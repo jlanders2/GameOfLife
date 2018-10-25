@@ -58,9 +58,9 @@ that you wish to run the game just follow steps 1-2 and enter the following comm
 ## Using the Application
 **What can you do in the application?**
 * Click the start button to start time  
-![alt text](./pictures/start-example.png
+![](https://gitlab.com/jlanders2/GameOfLife/raw/master/pictures/start-example.PNG)
 * Clicking the stop button will stop time (**I suggest editing cells in this mode, then starting to see what your pattern does!**)  
-![alt text](./pictures/stop-example.png
+![](https://gitlab.com/jlanders2/GameOfLife/raw/master/pictures/stop-example.PNG)
 * You can click on a square to make it "alive cells"(Black squares) or "dead cells"(White squares)  
-![alt text](./pictures/alive_cell-example.png ![](./pictures/dead_cell-example.png
+![](https://gitlab.com/jlanders2/GameOfLife/raw/master/pictures/alive_cell-example.PNG) ![](https://gitlab.com/jlanders2/GameOfLife/raw/master/pictures/dead_cell-example.PNG)
 
