@@ -56,6 +56,7 @@ that you wish to run the game just follow steps 1-2 and enter the following comm
 > **java -jar /GameOfLife.jar**  
 
 ## Using the Application
+<<<<<<< HEAD
 **What can you to in the application?**
 * Click the start button to start time  
 ![](./pictures/start-example.png
@@ -63,4 +64,11 @@ that you wish to run the game just follow steps 1-2 and enter the following comm
 ![](./pictures/stop-example.png
 * You can click on a square to make it "alive cells"(Black squares) or "dead cells"(White squares)  
 ![](./pictures/alive_cell-example.png ![](./pictures/dead_cell-example.png
+=======
+**What can you do in the application?**
+* Click the start button to start time
+* Clicking the stop button will stop time (**I suggest editing cells in this mode, then starting to see what your pattern does!**)
+* You can click on a square to make it "alive cells" or "dead cells"
+  * black squares are "alive cells" and white squares are "dead cells"  
+>>>>>>> 8c9bec336eef851a3506c99e1828468ffd17d11f
 
