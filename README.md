@@ -1,6 +1,7 @@
 # GameOfLife
+## NO LONGER MAINTAINED
 The program I have created is a clone I made from the ground up of the popular  
-Conway's Game of Life game.  
+Conway's Game of Life game. I made this during my time in university and no longer maintain this project
 
 ***Please Note The Following:***
 * This is just a little side project to work on my optimization skills and mess  
