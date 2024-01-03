@@ -16,6 +16,7 @@ that replicates cell automation. Below I will list some fun patterns to get you
 started.    
 
 ## Patterns
+### *These are a few interesting patterns to get you started*
 ### Still Patterns
 ![alt text](https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/Game_of_life_block_with_border.svg/66px-Game_of_life_block_with_border.svg.png) 
 ![alt text](https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/Game_of_life_beehive.svg/98px-Game_of_life_beehive.svg.png) 
@@ -31,7 +32,6 @@ started.
 ### Spaceship Patterns *(AKA - Patterns that move on their own)*
 ![alt text](https://upload.wikimedia.org/wikipedia/commons/f/f2/Game_of_life_animated_glider.gif) 
 ![alt text](https://upload.wikimedia.org/wikipedia/commons/3/37/Game_of_life_animated_LWSS.gif)   
-### *These are not all the possible patterns but a few ones that are used alot*
 
 ## To Run
 ### QuickStart
