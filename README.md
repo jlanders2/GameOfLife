@@ -1,6 +1,7 @@
 # GameOfLife
 The program I have created is a clone I made from the ground up of the popular  
-Conway's Game of Life game. This was made during my time in university and is un-optimized, but a fun little program nonetheless. Please enjoy!
+Conway's Game of Life game. This was made during my time in university and is  
+un-optimized, but a fun little program nonetheless. Please enjoy!
 
 ***Please Note The Following:***
 * This is just a little side project to work on my optimization skills and mess  
