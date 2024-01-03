@@ -6,8 +6,7 @@ Conway's Game of Life game. I made this during my time in university and no long
 ***Please Note The Following:***
 * This is just a little side project to work on my optimization skills and mess  
   around with different patterns in Conway's Game of Life.
-* ***IMPORTANT: Requires Java 8 and Windows***
-  * You can download Java 8 here: [JAVA 8 JRE](https://www.oracle.com/technetwork/java/javase/downloads/jre8-downloads-2133155.html)
+* ***IMPORTANT: Requires Java 11+ JDK, JavaFX SDK and Windows.***
 
 ## A little bit about the game
 If you have never heard of the "Game of Life", developed by John Conway in the  
