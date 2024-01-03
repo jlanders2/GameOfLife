@@ -38,23 +38,10 @@ started.
 ### QuickStart
 1. **Download Repository**  
 2. **Open Repository folder**
-3. **Run the first-start.bat file (This step only necessary once.)**
-4. **Run the run.bat file (This is how you will access the game from now on. Steps  
+3. **Edit first-start.bat and run.bat to point to your javafx sdk lib folder**
+4. **Run the first-start.bat file (This step only necessary once.)**
+5. **Run the run.bat file (This is how you will access the game from now on. Steps  
 1-3 no longer needed)**  
-  
-### Manually Start
-1. **Download Repository**  
-2. **Open command prompt and navigate to repository folder**
-3. **Enter the following commands:**
-> **cd gameoflife**  
-> **javac GameOfLife.java**  
-> **javac Main.java**  
-> **jar cmvf manifest.mf ../GameOfLife.jar ./\*.java ./\*.class**  
-> **cd ..**  
-> **java -jar /GameOfLife.jar**  
-4. **After doing steps 1-3 the game should have already ran once. The next times  
-that you wish to run the game just follow steps 1-2 and enter the following command:**  
-> **java -jar /GameOfLife.jar**  
 
 ## Using the Application
 **What can you do in the application?**
